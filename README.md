@@ -17,8 +17,6 @@
 Create documents containing live code, equations, visualizations,
 and explanatory text.
 
-![The JupyterLab add-on](images/screenshot.png)
-
 ## About
 
 JupyterLab is an open-source web application that allows you to create and share
@@ -57,7 +55,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 [aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
-[alpine-packages]: https://pkgs.alpinelinux.org/packages
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
@@ -70,6 +67,5 @@ SOFTWARE.
 [license-shield]: https://img.shields.io/github/license/Vioneta/addon-jupyterlab.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2024.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[python-packages]: https://pypi.org/
 [releases-shield]: https://img.shields.io/github/release/Vioneta/addon-jupyterlab.svg
 [releases]: https://github.com/Vioneta/addon-jupyterlab/releases
