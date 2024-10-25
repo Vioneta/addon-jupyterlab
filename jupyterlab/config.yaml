@@ -6,13 +6,13 @@ url: https://github.com/Vioneta/addon-jupyterlab
 ingress: true
 panel_icon: mdi:flask-outline
 arch:
-- aarch64
-- amd64
+  - aarch64
+  - amd64
 homeassistant_api: true
 init: false
 map:
-- config:rw
-- share:rw
+  - config:rw
+  - share:rw
 options:
   github_access_token: ""
   system_packages: []
@@ -21,6 +21,6 @@ schema:
   log_level: list(trace|debug|info|notice|warning|error|fatal)?
   github_access_token: password
   system_packages:
-  - str
+    - str
   init_commands:
-  - str
+    - str
